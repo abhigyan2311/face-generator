@@ -1,1 +1,4 @@
 assets/processed_celeba_small/celeba filter=lfs diff=lfs merge=lfs -text
+
+* linguist-vendored
+*.ipynb linguist-vendored=false
